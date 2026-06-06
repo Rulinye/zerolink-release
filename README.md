@@ -132,7 +132,7 @@
 
 ## 🗺️ 未来计划
 
-- **iOS 端**：不定期发布。
+- **iOS 端**：暂无计划。
 - **Android 端**：暂无计划。
 
 <div align="center"><sub>∞ zerolink</sub></div>
